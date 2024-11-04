@@ -6,7 +6,7 @@ License: GPL-2.0-or-later
 Requires at least: 4.9.23
 Tested up to: 6.6
 Requires PHP: 7.4
-Stable Tag: 3.0.2
+Stable Tag: 3.0.3
 
 Dynamic menus: List all posts from a category in your menu. Also works for tags, custom taxonomies as well as pages and custom post types.
 
@@ -62,6 +62,10 @@ Verified compatibility with WordPress 6.5
 Now compatible with Wordpress 6.2. Important: Plugin has been split into a Free and a Premium version. The Free version now has more limited functionality. See Changelog.
 
 == Changelog ==
+
+= 3.0.3 = 
+
+Verified compatibility with WordPress 6.7
 
 = 3.0.2 = 
 
