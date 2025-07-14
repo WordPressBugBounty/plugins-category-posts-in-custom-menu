@@ -3,13 +3,13 @@
  * Plugin Name: Category Posts in Custom Menu - Free 3.0
  * Plugin URI: https://wordpress.telodelic.nl/category-posts-in-custom-menu
  * Description: Dynamic menus: List all posts from a category in your menu. Also works for tags, custom taxonomies as well as pages and custom post types.
- * Version: 3.0.3
+ * Version: 3.0.4
  * Author: Diana van de Laarschot
  * Author URI: https://wordpress.telodelic.nl
  * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.4
- * Tested up to: 6.7
+ * Tested up to: 6.8
  * Requires PHP: 7.4
  * Text Domain: category-posts-in-custom-menu
  */
